@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="admin.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="NewProduct.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="blackdog.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MBox.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeF.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FrontForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstTimeForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LogForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="EditItemForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="NotifForm.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="admin.h" />
+    <ClInclude Include="Login.h" />
+    <ClInclude Include="MyForm.h" />
+    <ClInclude Include="NewProduct.h" />
+    <ClInclude Include="blackdog.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MBox.h" />
+    <ClInclude Include="ChangeF.h" />
+    <ClInclude Include="AboutForm.h" />
+    <ClInclude Include="FrontForm.h" />
+    <ClInclude Include="FirstTimeForm.h" />
+    <ClInclude Include="LogForm.h" />
+    <ClInclude Include="EditItemForm.h" />
+    <ClInclude Include="NotifForm.h" />
+    <ClInclude Include="resource1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{4263852f-52be-4f46-8e1e-703718d0de21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{6ba4835a-192a-4ca6-a4bc-13bdd4fc6885}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\Downloads\is.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="InventorySystem.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="InventorySystem.rc" />
+  </ItemGroup>
+</Project>
