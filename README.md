@@ -16,5 +16,3 @@ Sample screenshots:
 
 ![5](Screenshots/5.png)
 
-
-![6](Screenshots/6.png)
