@@ -2,19 +2,19 @@
 Requires [Microsoft Access Database Engine 2016 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
 
 Sample screenshots: 
-![](Screenshots/1.png)
+![1](Screenshots/1.png)
 
 
-![](Screenshots/2.png)
+![2](Screenshots/2.png)
 
 
-![](Screenshots/3.png)
+![3](Screenshots/3.png)
 
 
-![](Screenshots/4.png)
+![4](Screenshots/4.png)
 
 
-![](Screenshots/5.png)
+![5](Screenshots/5.png)
 
 
-![](Screenshots/6.png)
+![6](Screenshots/6.png)
